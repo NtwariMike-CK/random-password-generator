@@ -1,0 +1,1 @@
+#This is app that generates strong password with 12 characters
